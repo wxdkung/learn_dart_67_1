@@ -1,8 +1,6 @@
 // Set
 
-import 'dart:ffi';
-
-void main(){
+void main() {
   Set<String> friuts = {'apple', 'banana', 'orange'};
   print(friuts);
 

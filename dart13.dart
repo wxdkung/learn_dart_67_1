@@ -1,7 +1,5 @@
 // Map
 
-import 'dart2a.dart';
-
 void main() {
   var staff = Map();
   staff['id'] = 1;
