@@ -1,11 +1,9 @@
 // Switch Case
 
-import 'dart:vmservice_io';
-
 void main() {
   int number = 2;
 
-  switch (number){
+  switch (number) {
     case 1:
       print("Number is one");
       break;
