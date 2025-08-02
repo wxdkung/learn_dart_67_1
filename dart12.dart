@@ -15,4 +15,8 @@ void main() {
   listVariable3.add(4);
   listVariable3.add(5);
   print(listVariable3);
+
+  List<String> listVariable4 = ["Apple", "Banana", "Coconut"];
+  print(listVariable4[4]);
+  print(listVariable4);
 }
